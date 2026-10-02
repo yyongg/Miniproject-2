@@ -22,7 +22,6 @@ module rgb_fade #(
 
     logic [$clog2(STEP_CYCLES) - 1:0] count = 0;
     logic [$clog2(PWM_INTERVAL) - 1:0] pwm_count = 0;
-    logic [$clog2(PWM_INTERVAL) - 1:0] pwm_count = 0;
     logic [$clog2(INC_DEC_MAX) - 1:0] step = 0;
 
     logic [2:0] state = 0;

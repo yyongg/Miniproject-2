@@ -1,0 +1,38 @@
+[dumpfile] "rgb_fade.vcd"
+[size] 1400 760
+[signals_width] 240
+[sst_expanded] 0
+[sst_vpaned_height] 200
+[timestart] 0
+*-27.600000 -1
+@28
+rgb_fade_tb.u0.state[2:0]
+[color] 1
+@8024
+rgb_fade_tb.u0.red_pwm_value[10:0]
+@20000
+-
+-
+-
+-
+-
+[color] 4
+@8024
+rgb_fade_tb.u0.green_pwm_value[10:0]
+@20000
+-
+-
+-
+-
+-
+[color] 5
+@8024
+rgb_fade_tb.u0.blue_pwm_value[10:0]
+@20000
+-
+-
+-
+-
+-
+[pattern_trace] 1
+[pattern_trace] 0

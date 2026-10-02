@@ -1,0 +1,8 @@
+VCD info: dumpfile rgb_fade.vcd opened for output.
+t =  167 ms  state = 1  R = 1200  G = 1200  B =    0
+t =  335 ms  state = 2  R =    0  G = 1200  B =    0
+t =  503 ms  state = 3  R =    0  G = 1200  B = 1200
+t =  671 ms  state = 4  R =    0  G =    0  B = 1200
+t =  839 ms  state = 5  R = 1200  G =    0  B = 1200
+t = 1007 ms  state = 0  R = 1200  G =    0  B =    0
+rgb_fade_tb.sv:27: $finish called at 1100000000 (1ns)
